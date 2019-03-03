@@ -1,2 +1,3 @@
 # bluenote
-~!@#$%^&*()plutodeltawingprotonplutodeltawing3git~!@#$%^&*()
+~!@#$%^&*()plutodeltawingprotonplutodeltawing3git
+~!@#$%^&*()
