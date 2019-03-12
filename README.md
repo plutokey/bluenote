@@ -3,6 +3,6 @@
 ~!@#$%^&*() <br>
 1234567890
 
-RabbitMQ 使用：
-rabbitmq-plugins enable rabbitmq_management
-http://localhost:15672/
+RabbitMQ 使用： <br>
+rabbitmq-plugins enable rabbitmq_management  <br>
+http://localhost:15672/  <br>
